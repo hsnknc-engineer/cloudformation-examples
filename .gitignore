@@ -1,0 +1,2 @@
+# Ignore the bash_scripts directory to keep local scripts out of the repository
+bash_scripts/
